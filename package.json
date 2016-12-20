@@ -1,0 +1,16 @@
+{
+  "name": "shorten_url",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "camper",
+  "license": "ISC",
+  "dependencies": {
+    "jade": "^1.11.0",
+    "mongoose": "^4.7.3",
+    "valid-url": "^1.0.9"
+  }
+}
